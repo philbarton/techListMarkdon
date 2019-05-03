@@ -1,5 +1,6 @@
 title: Docker
-quadrant: tools
+category: tools
+phase: emerging
 date: 2012-03-04
 tags: [devops, container]
 

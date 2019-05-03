@@ -1,5 +1,6 @@
 title: Java
-quadrant: language
+category: language
+phase: invest
 date: 2012-03-04
 tags: [general]
 

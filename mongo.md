@@ -1,8 +1,8 @@
-title: Avro
-category: another
+title: MongoDB
+category: tools
 phase: hold
 date: 2012-03-04
-tags: [bigData]
+tags: [nosql, database]
 
 # Intro
 

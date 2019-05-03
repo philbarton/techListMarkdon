@@ -1,6 +1,7 @@
 title: Hello World
+category: tools
+phase: invest
 date: 2012-03-04
-quadrant: tools
 tags: [general, awesome, stuff]
 
 **Hello World**, from a *page*!
